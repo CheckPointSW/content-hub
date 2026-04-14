@@ -20,7 +20,7 @@ dependencies = [
 [dependency-groups]
 dev = [
     "integration-testing",
-    "pytest>=8.3.5",
+    "pytest>=9.0.3",
     "pytest-json-report>=1.5.0",
     "soar-sdk",
 ]
